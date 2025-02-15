@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there :3
+
+My name is _Wiktor_, and i don't have ~~willpower~~ _time_ to write Readme right now. 
+Some day i might do it
+
 
 <!--
 **Wp-Stan/Wp-Stan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
